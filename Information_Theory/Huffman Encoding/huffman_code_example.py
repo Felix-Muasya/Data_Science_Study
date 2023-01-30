@@ -1,3 +1,6 @@
+""" 
+This code is a simple implementation of huffman encoding
+"""
 from collections import Counter
 from heapq import heappush, heappop
 
